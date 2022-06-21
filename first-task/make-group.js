@@ -14,7 +14,7 @@ function makeGroup(data){
             if(par[i].assistant){        
              assistantName=par[i].name;
             }                 
-        }                   // bu fonksiyonun işlevi dizi elemanlarını tek tek gezerek "value" kısmı true olan key"i bulmak ve aynı eleman içerisindeki name bilgisini bize sunmaktır
+        }                   // bu fonksiyonun işlevi dizi elemanlarını tek tek gezerek "value" kısmı true olan "key"e sahip elemanı bulmak ve aynı eleman içerisindeki name bilgisini bize sunmaktır
        console.log(assistantName)      
     }
 
