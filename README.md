@@ -6,4 +6,4 @@
 
 ## This repo is created for [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Web Development Bootcamp 
 
-* All the files included in this repo is about tasks that bootcamp participants should complete. There are different files for each task. 
+* All the files included in this repo are about tasks that bootcamp participants should complete. There are different files for each task. 
